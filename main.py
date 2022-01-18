@@ -10,7 +10,6 @@ import torch.optim
 
 from collections import OrderedDict
 
-import matplotlib as mpl
 import matplotlib.pyplot as plt
 
 from maml import MAML
